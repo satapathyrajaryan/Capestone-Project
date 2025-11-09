@@ -1,0 +1,5 @@
+sudo apt install libncurses5-dev libncursesw5-dev
+
+ g++ FileExplorer.cpp -o explorer -lncurses -std=c++17
+
+./explorer
