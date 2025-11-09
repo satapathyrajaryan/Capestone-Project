@@ -50,14 +50,17 @@ The objective of this project is to gain a deeper understanding of:
 
 ##  **Installation Instructions**
 
-1. **Clone the Repository:**
+- **Clone the Repository:**
    ```bash
    git clone https://github.com/<your-username>/Linux-File-Explorer.git
    cd Linux-File-Explorer
-2.Install Required Libraries:
-sudo apt update
-sudo apt install libncurses5-dev libncursesw5-dev
-3.Compile the Program:
-g++ FileExplorer.cpp -o explorer -lncurses -std=c++17
-4.Run the Application:
-./explorer
+- **Install Required Libraries**:
+   ```bash
+   sudo apt update
+   sudo apt install libncurses5-dev libncursesw5-dev
+- **Compile the Program:**
+  ```bash
+   g++ FileExplorer.cpp -o explorer -lncurses -std=c++17
+- **Run the Application:**
+  ```bash
+  ./explorer
