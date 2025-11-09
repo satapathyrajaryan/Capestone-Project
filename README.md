@@ -1,11 +1,11 @@
 # Capestone-Project
-# 🗂️ Linux File Explorer (C++ Console-Based)
+#  Linux File Explorer (C++ Console-Based)
 
-### 👨‍💻 Developed by: Satapathy Raj Aryan
+###  Developed by: Satapathy Raj Aryan
 
 ---
 
-## 📘 **Project Overview**
+##  **Project Overview**
 
 The **File Explorer Application** is a **console-based project** developed in **C++**, designed to interface directly with the **Linux Operating System**.  
 It allows users to perform and manage a wide range of **file and directory operations** through a clean terminal-based interface using the **ncurses** library.
@@ -14,7 +14,7 @@ This project acts as a simplified version of a graphical file manager — provid
 
 ---
 
-## 🎯 **Objective**
+##  **Objective**
 
 The objective of this project is to gain a deeper understanding of:
 - Linux **file handling mechanisms**
@@ -24,20 +24,20 @@ The objective of this project is to gain a deeper understanding of:
 
 ---
 
-## ⚙️ **Features**
+##  **Features**
 
-✅ List all files and directories in the current path  
-✅ Navigate between directories (open / back)  
-✅ Create new files and folders  
-✅ Rename, copy, move, and delete files or directories  
-✅ Search for files by name recursively  
-✅ Modify file permissions using numeric codes (e.g., `755`, `644`)  
-✅ Color-coded terminal interface using ncurses  
-✅ Error handling and visual status feedback  
+- List all files and directories in the current path  
+- Navigate between directories (open / back)  
+- Create new files and folders  
+- Rename, copy, move, and delete files or directories  
+- Search for files by name recursively  
+- Modify file permissions using numeric codes (e.g., `755`, `644`)  
+- Color-coded terminal interface using ncurses  
+- Error handling and visual status feedback  
 
 ---
 
-## 🧩 **Technologies Used**
+##  **Technologies Used**
 
 - **Language:** C++ (C++17 Standard)
 - **Libraries:**
@@ -48,7 +48,7 @@ The objective of this project is to gain a deeper understanding of:
 
 ---
 
-## 🧠 **Installation Instructions**
+##  **Installation Instructions**
 
 1. **Clone the Repository:**
    ```bash
